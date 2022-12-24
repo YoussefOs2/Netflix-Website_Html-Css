@@ -21,7 +21,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(/images/EG-en-20221219-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(https://raw.githubusercontent.com/YoussefOs2/Netflix-Website_Html-Css/master/images/EG-en-20221219-popsignuptwoweeks-perspective_alpha_website_small.jpg;
     background-size: cover;
     background-position: center;
     padding: 10px 8%;
